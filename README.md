@@ -3,7 +3,7 @@ Covid_19_Testing &amp; Vaccination Analysis
 Project Title:
 COVID‑19 Dynamics in India: Insights from an Excel Dashboard
 
-Contribution - Team(GP-03)
+Level : - Intermediate
 Made by - Tanmay Gautam
 
 Dataset Name:
@@ -15,13 +15,10 @@ Dataset Name:
 
 Tools & Technologies: SQL (PostgreSQL), Microsoft Excel, ETL for COVID‑19 Data Analytics
 
-SQL File: Process to clean the data through SQL
-
-Excel file:Excel Data Analysis: Manipulation, Formulas and Functions
-
 
 
 Section 1: Project Overview & Objectives
+
 Project Overview
 The COVID-19 pandemic significantly impacted India, presenting complex challenges across healthcare, governance, and public awareness. Large volumes of data were generated daily, including confirmed cases, recoveries, deaths, testing figures, and vaccination progress across states and union territories.
 This project focuses on transforming raw COVID-19 datasets into meaningful insights using SQL for data processing and Excel for analysis and dashboard visualization. The aim is to provide a clear understanding of pandemic trends and state-wise impacts through interactive analytics.
@@ -33,7 +30,6 @@ Project Objectives
 
 ### 1. Database Setup
 
-- **Table Creation**: Three tables named `Covid_testing_statewise` is created to store the testing data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
 
 ```sql
 
